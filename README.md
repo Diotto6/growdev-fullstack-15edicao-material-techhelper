@@ -159,9 +159,9 @@ p {
 ### Exemplo de adição de comentários no CSS:
 
 ```css
-/_ Este é um comentário CSS _/
+/* Este é um comentário CSS */
 p {
-/_ Esta é uma regra de estilo para parágrafos _/
+/* Esta é uma regra de estilo para parágrafos */
 color: red;
 }
 ```
@@ -170,8 +170,8 @@ color: red;
 
 ```css
 p {
-color: blue; /_ Define a cor do texto para azul _/
-background-color: #FF0000; /_ Define a cor de fundo para vermelho usando código hexadecimal _/
+color: blue; /* Define a cor do texto para azul */
+background-color: #FF0000; /* Define a cor de fundo para vermelho usando código hexadecimal */
 }
 ```
 
@@ -179,8 +179,8 @@ background-color: #FF0000; /_ Define a cor de fundo para vermelho usando código
 
 ```css
 body {
-background-color: yellow; /_ Define a cor de fundo do corpo para amarelo _/
-background-image: url("imagem.jpg"); /_ Define uma imagem de fundo para o corpo _/
+background-color: yellow; /* Define a cor de fundo do corpo para amarelo */
+background-image: url("imagem.jpg"); /* Define uma imagem de fundo para o corpo */
 }
 ```
 
@@ -188,7 +188,7 @@ background-image: url("imagem.jpg"); /_ Define uma imagem de fundo para o corpo 
 
 ```css
 p {
-border: 1px solid black; /_ Define uma borda sólida de 1 pixel em volta do parágrafo _/
+border: 1px solid black; /* Define uma borda sólida de 1 pixel em volta do parágrafo */
 }
 ```
 
@@ -196,8 +196,8 @@ border: 1px solid black; /_ Define uma borda sólida de 1 pixel em volta do par�
 
 ```css
 div {
-height: 200px; /_ Define a altura do elemento div para 200 pixels _/
-width: 300px; /_ Define a largura do elemento div para 300 pixels _/
+height: 200px; /* Define a altura do elemento div para 200 pixels */
+width: 300px; /* Define a largura do elemento div para 300 pixels */
 }
 ```
 
@@ -205,8 +205,8 @@ width: 300px; /_ Define a largura do elemento div para 300 pixels _/
 
 ```css
 p {
-font-size: 1.2em; /_ Define o tamanho da fonte do parágrafo como 1.2 vezes o tamanho da fonte do elemento pai _/
-margin-bottom: 20px; /_ Define a margem inferior do parágrafo como 20 pixels _/
+font-size: 1.2em; /* Define o tamanho da fonte do parágrafo como 1.2 vezes o tamanho da fonte do elemento pai */
+margin-bottom: 20px; /* Define a margem inferior do parágrafo como 20 pixels */
 }
 ```
 
