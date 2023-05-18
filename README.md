@@ -119,8 +119,11 @@ Essas são apenas algumas das funcionalidades básicas do CSS. O CSS é uma ling
 
 ```html
 <p style="color: red; font-size: 20px;">Texto vermelho com tamanho de fonte de 20 pixels.</p>
-Exemplo de CSS utilizando a tag <style> no HTML:
-htmlCopy code
+```
+
+### Exemplo de CSS utilizando a tag `<style>` no HTML:
+
+```html
 <head>
   <style>
     p {
