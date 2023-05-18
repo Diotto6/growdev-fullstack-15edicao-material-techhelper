@@ -4,8 +4,10 @@ CSS Inline: O CSS inline é uma maneira de adicionar estilos diretamente em um e
 
 ```html
 <p style="color: red;">Texto vermelho</p>
-CSS utilizando a tag <style> no HTML: Você pode incluir CSS diretamente no HTML usando a tag <style>. Dentro dessa tag, você pode escrever as regras de estilo CSS para aplicar a elementos específicos. Por exemplo:
 ```
+
+CSS utilizando a tag <style> no HTML: Você pode incluir CSS diretamente no HTML usando a tag <style></style>. 
+Dentro dessa tag, você pode escrever as regras de estilo CSS para aplicar a elementos específicos. Por exemplo:
 
 ```html
 <style>
